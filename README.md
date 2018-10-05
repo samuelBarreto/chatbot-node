@@ -1,6 +1,6 @@
-# Watson sample chatbot
+# Samuel simple chatbot
 
-A simple chatbot using IBM Watson and Node.js
+A simple chatbot using IBM Watson and Node.js express 
 
 ![chat-example](https://cdn-images-1.medium.com/max/800/1*iatsJpNf38Kix_In0ddw3g.gif)
 
@@ -16,3 +16,4 @@ ASSISTANT_PASSWORD=<password>
 ```
 
 To run the project execute in your terminal `node app.js`
+Servidor: port   http://localhost:3000/
